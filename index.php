@@ -12,7 +12,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 	<script src="scripts.js"></script>
-	<link rel="icon" href="images/icon.png" sizes="128x128" type="image/png">
+	<link rel="icon" href="image/icon.png" sizes="128x128" type="image/png">
 	<script src="https://cdn.jsdelivr.net/npm/three@0.136.0/build/three.min.js"></script>
 </head>
 <body>
@@ -55,7 +55,7 @@
 					
 							?>
 								<li> <button type="button" class="btn" onclick="JoinBtn()"> 
-								<img class="user-profile " src="images/icon_user.png" style="padding:0; margin:0; width: 30px;height: 30px;" alt=""></button></li>
+								<img class="user-profile " src="image/icon_user.png" style="padding:0; margin:0; width: 30px;height: 30px;" alt=""></button></li>
 							
 								<?php else: ?> 
 								
@@ -414,7 +414,7 @@
 			
 			<div class="container">
 				
-				<img data-speed=".6" class="hero" src="images/hero.png" alt="Alt">
+				<img data-speed=".6" class="hero" src="image/hero.png" alt="Alt">
 
 						<div data-speed=".75" class="main-header">
 							<h1 class="main-title" style="font-size: 30px;">
